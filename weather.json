@@ -1,0 +1,41 @@
+{
+  "location": {
+    "name": "Algiers",
+    "region": "Alger",
+    "country": "Algeria",
+    "lat": 36.76,
+    "lon": 3.05,
+    "tz_id": "Africa/Algiers",
+    "localtime_epoch": 1684664014,
+    "localtime": "2023-05-21 11:13"
+  },
+  "current": {
+    "last_updated_epoch": 1684663200,
+    "last_updated": "2023-05-21 11:00",
+    "temp_c": 21.0,
+    "temp_f": 69.8,
+    "is_day": 1,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "code": 1003
+    },
+    "wind_mph": 2.2,
+    "wind_kph": 3.6,
+    "wind_degree": 52,
+    "wind_dir": "NE",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 56,
+    "cloud": 25,
+    "feelslike_c": 21.0,
+    "feelslike_f": 69.8,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 6.0,
+    "gust_mph": 8.1,
+    "gust_kph": 13.0
+  }
+}
